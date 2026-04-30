@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ليلي يطول وقلبي في هواك يذوب
+> طيفك يراودني في كل الدروب
+> روحي تنادي وعيني لا تتوب
+> شوقي إليك كنار في القلوب
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
