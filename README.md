@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Akher Mara Neta2bel |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 01, 2026 |
+| Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/akher-mara-neta2bel/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
