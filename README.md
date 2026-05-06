@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/akher-mara-neta2bel/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Akher Mara Neta2bel](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
